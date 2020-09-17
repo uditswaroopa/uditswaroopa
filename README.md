@@ -21,11 +21,9 @@
 - ⚡ I enjoy listening music 🎧 and traveling 🏝️🗻.
 
 
-<details>
   <summary>:zap: Github Stats</summary>
    <img align="left" alt="UditSwaroopa Stats" src="https://github-readme-stats.vercel.app/api?username=uditswaroopa&show_icons=true&hide_border=true" />
 <!-- ![Lav's github stats]() -->
-</details>
 
 
 ### Languages and Tools:
