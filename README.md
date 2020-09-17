@@ -1,16 +1,11 @@
-### Hi 👋 there, I'm Lav
+# Hi 👋 there, I'm reverse(tidU)
 
-<a href="https://www.linkedin.com/in/lav-joshi-b72248196/">
-  <img align="left" alt="lav-joshi LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/udit-swaroopa-b5a41a18b/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
-<a href="https://www.facebook.com/lav.joshi.923/">
-  <img align="left" alt="lav-joshi Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/lav_joshi2002/">
-  <img align="left" alt="lav-joshi Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://codeforces.com/profile/c_tycoon">
-  <img align="left" alt="lav-joshi Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+
+<a href="https://codeforces.com/profile/uditswaroopa">
+  <img align="left" alt="lav-joshi Codeforces" width="45px" src="https://divyanshuagrawal.gallerycdn.vsassets.io/extensions/divyanshuagrawal/competitive-programming-helper/4.3.7/1598438075600/Microsoft.VisualStudio.Services.Icons.Default" />
 </a>
 <a href="https://www.codechef.com/users/binary_matrix">
   <img align="left" alt="lav-joshi Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
